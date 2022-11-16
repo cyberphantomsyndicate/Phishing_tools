@@ -74,7 +74,7 @@ echo " "
         echo -e "\e[1;34m Downloading Latest Files..."
         cd $HOME
         rm -rf Xteam
-        git clone https://github.com/xploitstech/Xteam
+        git clone https://github.com/hacker6291/Phishing_tools.git
         cd Xteam
         bash Xteam.sh
      
