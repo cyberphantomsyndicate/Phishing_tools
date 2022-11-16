@@ -16,7 +16,7 @@ apt-get install python
 apt-get install python3
 clear
 echo -e "$Green Created By \e[1;34m"
-       figlet Jaan | lolcat
+       figlet h_hck7 | lolcat
 sleep 2.0
 
     echo " "
