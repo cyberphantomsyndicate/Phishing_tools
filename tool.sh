@@ -16,11 +16,11 @@ apt-get install python
 apt-get install python3
 clear
 echo -e "$Green Created By \e[1;34m"
-       figlet h_hck7 | lolcat
+       figlet  CPS | lolcat
 sleep 2.0
 
     echo " "
-    echo -e "$Red                               ⫸ Coded by$Yellow h_hck7$Red ⫷\033[0m"
+    echo -e "$Red                               ⫸ Coded by$Yellow CPS$Red ⫷\033[0m"
     echo -e "$Red                               ⫸$Purple How are u all$Red ⫷\033[0m"
 echo " "
 echo -e " $Red       ||----------------------------$Cyan [All in one phishing Hack] $Blue ---------------------------||"
